@@ -9,15 +9,11 @@ A cozy ninja platformer full of leafy forests, sneaky enemies, and speedy parkou
 - **Dynamic obstacles and enemies** that keep every run exciting.
 - **Fun particle effects** for leaves, sparks, and motion.
 
-## Gameplay Screenshot Placeholder
-
-> Add your gameplay screenshot here once you capture it.
+## Gameplay Screenshot
 
 ![Gameplay Screenshot](docs/screenshot-placeholder.png)
 
-## Gameplay Video Placeholder
-
-> Drop in your video link so players can see Ninjo in action.
+## Gameplay Video
 
 [![Gameplay Video](docs/video-placeholder.png)](https://example.com)
 
@@ -56,11 +52,9 @@ A cozy ninja platformer full of leafy forests, sneaky enemies, and speedy parkou
 - Add a high-score table or timed runs.
 
 ## Credits
-Source and Inspiration DaFluffyPotato 
-[![Youtube]](https://youtube.com/@DaFluffyPotato)
-[![Website]](https://dafluffypotato.com)
+- Inspiration and learning resources from **DaFluffyPotato**
+  - YouTube: https://youtube.com/@DaFluffyPotato
+  - Website: https://dafluffypotato.com
 
 ---
-
-> Ready to jump in? Capture a great screenshot, plug in a video, and this README will become your game's showcase page.
 
