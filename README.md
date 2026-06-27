@@ -1,6 +1,6 @@
 # Ninjo
 
-A cozy ninja platformer full of leafy forests, sneaky enemies, and speedy parkour mayhem.
+A cozy ninja platformer full of leafy forests, sneaky enemies, and speedy parkour adventure.
 
 ## Game Highlights
 
